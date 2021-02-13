@@ -1,6 +1,7 @@
 {
   "name": "uhh-fyi",
   "version": "1.0.0",
+  "baseUrl": "https://uhh.fyi",
   "description": "My personal URL shortener",
   "scripts": {
     "shorten": "netlify-shortener"
