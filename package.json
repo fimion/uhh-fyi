@@ -5,7 +5,7 @@
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "dependencies": {
+  "devDependencies": {
     "netlify-shortener": "^2.4.0"
   },
   "repository": {
