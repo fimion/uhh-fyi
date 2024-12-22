@@ -1,3 +1,7 @@
+# whyusenuxt.com redirects
+http://whyusenuxt.com/* https://vuejs.org/ 301!
+https://whyusenuxt.com/* https://vuejs.org/ 301!
+
 /this_is_my_twitter   https://twitter.com/fimion
 /this_is_my_github    https://github.com/fimion
 
